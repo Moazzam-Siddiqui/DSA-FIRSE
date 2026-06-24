@@ -1,4 +1,4 @@
-package adamantium;
+package Conditional;
 
 import java.util.Scanner;
 
